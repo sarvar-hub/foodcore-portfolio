@@ -1,4 +1,4 @@
-import bgImg from "@/assets/vector3.svg";
+import bgImg from "@/assets/vector3.png";
 import Food1 from "@/assets/biryani2.png";
 import Food2 from "@/assets/biryani3.png";
 import Food3 from "@/assets/biryani5.png";
